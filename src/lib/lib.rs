@@ -1,6 +1,6 @@
 
 
 
-pub fn echo ( str : text){
+pub fn echo ( text : & str)-> & str {
     text
 }

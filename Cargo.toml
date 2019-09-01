@@ -5,6 +5,7 @@ authors = ["Johannes Lüke <lueke.johannes@gmail.com>"]
 
 [lib]
 name = "echo"
+path ="./src/lib/lib.rs"
 
 [dependencies]
 clap = { git = "https://github.com/clap-rs/clap.git", rev="v2.31.2" }
