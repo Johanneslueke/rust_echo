@@ -3,5 +3,8 @@ name = "echo"
 version = "0.1.0"
 authors = ["Johannes Lüke <lueke.johannes@gmail.com>"]
 
+[lib]
+name = "echo"
+
 [dependencies]
 clap = { git = "https://github.com/clap-rs/clap.git", rev="v2.31.2" }
