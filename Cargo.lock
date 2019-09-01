@@ -37,7 +37,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "hello_remote_world"
+name = "echo"
 version = "0.1.0"
 dependencies = [
  "clap 2.31.2 (git+https://github.com/clap-rs/clap.git?rev=v2.31.2)",
